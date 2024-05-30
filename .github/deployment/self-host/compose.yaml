@@ -14,9 +14,9 @@ services:
         condition: service_healthy
     volumes:
       # custom configurations
-      - ~/.affine/self-host/config:/root/.affine/config
+      - ~/DATA/strumenti/affine/data/config:/root/.affine/config
       # blob storage
-      - ~/.affine/self-host/storage:/root/.affine/storage
+      - ~/DATA/strumenti/affine/data/storage:/root/.affine/storage
     logging:
       driver: 'json-file'
       options:

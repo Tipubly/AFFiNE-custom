@@ -92,7 +92,7 @@ Thanks for checking us out, we appreciate your interest and sincerely hope that 
 ## Contributing
 
 | Bug Reports                                                                                                                                         | Feature Requests                                                                                                                                               | Questions/Discussions                                                         | AFFiNE Community                                          |
-| --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------- |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Create a bug report](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=bug%2Cproduct-review&template=BUG-REPORT.yml&title=TITLE) | [Submit a feature request](https://github.com/toeverything/AFFiNE/issues/new?assignees=&labels=feat%2Cproduct-review&template=FEATURE-REQUEST.yml&title=TITLE) | [Check GitHub Discussion](https://github.com/toeverything/AFFiNE/discussions) | [Vist the AFFiNE Community](https://community.affine.pro) |
 | Something isn't working as expected                                                                                                                 | An idea for a new feature, or improvements                                                                                                                     | Discuss and ask questions                                                     | A place to ask, learn and engage with others              |
 
@@ -111,7 +111,7 @@ If you have questions, you are welcome to contact us. One of the best places to 
 ## Ecosystem
 
 | Name                                             |                            |                                                                                                                                         |
-| ------------------------------------------------ | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+|--------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | [@affine/component](packages/frontend/component) | AFFiNE Component Resources | ![](https://img.shields.io/codecov/c/github/toeverything/affine?style=flat-square)                                                      |
 | [@toeverything/theme](packages/common/theme)     | AFFiNE theme               | [![](https://img.shields.io/npm/dm/@toeverything/theme?style=flat-square&color=eee)](https://www.npmjs.com/package/@toeverything/theme) |
 
@@ -179,16 +179,29 @@ Thanks to [Chromatic](https://www.chromatic.com/) for providing the visual testi
 See [LICENSE] for details.
 
 [all-contributors-badge]: https://img.shields.io/github/contributors/toeverything/AFFiNE
+
 [license]: ./LICENSE
+
 [building.md]: ./docs/BUILDING.md
+
 [update page]: https://affine.pro/blog?tag=Release%20Note
+
 [jobs available]: ./docs/jobs.md
+
 [latest packages]: https://github.com/toeverything/AFFiNE/pkgs/container/affine-self-hosted
+
 [contributor license agreement]: https://github.com/toeverything/affine/edit/canary/.github/CLA.md
+
 [rust-version-icon]: https://img.shields.io/badge/Rust-1.77.2-dea584
+
 [stars-icon]: https://img.shields.io/github/stars/toeverything/AFFiNE.svg?style=flat&logo=github&colorB=red&label=stars
+
 [codecov]: https://codecov.io/gh/toeverything/affine/branch/canary/graphs/badge.svg?branch=canary
+
 [node-version-icon]: https://img.shields.io/badge/node-%3E=18.16.1-success
+
 [typescript-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/affine/dev/typescript
+
 [react-version-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/react?filename=packages%2Ffrontend%2Fcore%2Fpackage.json&color=rgb(97%2C228%2C251)
+
 [blocksuite-icon]: https://img.shields.io/github/package-json/dependency-version/toeverything/AFFiNE/@blocksuite/store?color=6880ff&filename=packages%2Ffrontend%2Fcore%2Fpackage.json&label=blocksuite
